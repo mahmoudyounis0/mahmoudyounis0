@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;always %20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;always%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
   <br>
   <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/2/424575fe9318e72b134a8994de3331043586294bff1965b941d949b335be507a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240420%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240420T132124Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d03de365f433c9c402bb3fe40611c9353d35adcefd77bb5dec94e17665a636a4" alt="" loading="lazy" style="">
 </p> 
