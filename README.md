@@ -64,15 +64,6 @@
 
 <br>
 
-<h3 align="left">Achievements :</h3>
-
-###
-
-- 🏆 Completed the Advanced React.js course with distinction.
-- 🎓 Contributed to open-source projects and received recognition from the community.
-- 🏅 Developed a popular recipe finder application used by hundreds of users.
-
-###
 
 <h3 align="left">My Coding Journey :</h3>
 
