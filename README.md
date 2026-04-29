@@ -10,9 +10,9 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0OTg2ODAsIm5iZiI6MTc3NzQ5ODM4MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI5VDIxMzMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwNWJlM2VmYTE1ZjVmZWQ4NDY4ZmU5MzcxNjY3Yjg2ZTc3ZTUwZDY0NDlkNTg1MzQ1N2ZhNzE3MzlmODlmY2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.zwcxokVkW1AFPN2SgX5W5zdwQKAshpEO7TNgJlsMhJ4" width="100%" alt="skills banner"/>
-</div>
+</div> -->
 
 ---
 
@@ -90,7 +90,7 @@ const mahmoud = {
 </p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="600" alt="coding gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" alt="coding gif"/>
 </div>
 
 ---
