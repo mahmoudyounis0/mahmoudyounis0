@@ -102,7 +102,7 @@ const mahmoud = {
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahmoudyounis0&theme=tokyonight&no-frame=true&column=6" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mahmoudyounis0&theme=tokyonight&no-frame=true&column=4" alt="trophies"/>
   </a>
 </p>
 
