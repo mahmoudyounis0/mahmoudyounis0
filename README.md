@@ -94,21 +94,20 @@ const mahmoud = {
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoudyounis0&label=Profile%20views&color=1A56DB&style=flat" alt="mahmoudyounis0" />
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudyounis0&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mahmoudyounis0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudyounis0&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="mahmoudyounis0" />
 </p>
 
 <br clear="left"/>
 
----
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -119,7 +118,6 @@ const mahmoud = {
 
 </div>
 
----
 
 <div align="center">
 
