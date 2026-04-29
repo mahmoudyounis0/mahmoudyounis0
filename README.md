@@ -42,13 +42,14 @@ const mahmoud = {
 ```
 
 </td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+</td>
 </tr>
 </table>
-<div>
 
-<img src="[https://i.imgflip.com/65efzo.gif](https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif)" width="280" alt="coding gif"/>
-
-</div>
 ---
 
 ## 🚀 What I'm Working On
