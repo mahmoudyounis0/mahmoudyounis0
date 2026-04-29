@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```javascript
 const mahmoud = {
@@ -29,7 +29,6 @@ const mahmoud = {
 };
 ```
 
----
 
 ## 🚀 What I'm Working On
 
@@ -37,9 +36,9 @@ const mahmoud = {
 - 🔐 Developing **role-based dashboards** with secure RBAC and organization-level management
 - ⚡ Optimizing backend performance, API design, and system reliability
 
----
 
-## 🛠️ Technologies I Use
+
+##  Technologies I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -93,11 +92,11 @@ const mahmoud = {
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" alt="coding gif"/>
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoudyounis0&label=Profile%20views&color=1A56DB&style=flat" alt="mahmoudyounis0" />
 </p>
 
