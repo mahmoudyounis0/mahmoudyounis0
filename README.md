@@ -12,9 +12,11 @@
 
 ---
 
-<table align="center">
-<tr>
-<td valign="top" width="55%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100%" alt="coding gif"/>
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -22,33 +24,12 @@
 const mahmoud = {
   role: "Software Engineer @ Blue Crunch",
   location: "Egypt 🇪🇬",
-  focus: [
-    "SaaS Platforms",
-    "Real-time Apps",
-    "AI-powered Features"
-  ],
-  currentlyLearning: [
-    "System Design",
-    "GraphQL",
-    "Cloud Architecture"
-  ],
-  askMeAbout: [
-    "React", "Next.js",
-    "Node.js", "API Design"
-  ],
-  funFact: "I turn complex ideas into"
-         + " clean, maintainable code ☕"
+  focus: ["SaaS Platforms", "Real-time Apps", "AI-powered Features"],
+  currentlyLearning: ["System Design", "GraphQL", "Cloud Architecture"],
+  askMeAbout: ["React", "Next.js", "Node.js", "API Design"],
+  funFact: "I turn complex ideas into clean, maintainable code ☕"
 };
 ```
-
-</td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
