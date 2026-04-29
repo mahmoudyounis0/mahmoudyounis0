@@ -1,87 +1,119 @@
-<h3 align="center">
-  Welcome to Mahmoud Younis's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;always%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-  <br>
-  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/2/424575fe9318e72b134a8994de3331043586294bff1965b941d949b335be507a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240420%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240420T132124Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d03de365f433c9c402bb3fe40611c9353d35adcefd77bb5dec94e17665a636a4" alt="" loading="lazy" style="">
-</p> 
+<div align="center">
 
-- I'm a Front-End Developer currently learning Node.js for back-end development.
-- I have experience with React.js , Nest.js and various CSS frameworks.
-- Currently learning Node.js for back-end development.
-- Ask me about front-end development, React.js, and CSS frameworks.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:06B6D4&height=200&section=header&text=Mahmoud%20Younis&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-###
-
-<h3 align="left">Social :</h3>
-
-###
-
-<div align="left">
-  <a href="linkedin.com/in/mahmoudyounis0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-<!--   <a href="https://x.com/Mahmoud22103?t=KnkFHRsdhVy2kM5LY-HWwg&s=09&mx=2" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a> -->
 </div>
 
-###
+<div align="center">
 
-<h3 align="left">Technologies & Skills :</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Building+scalable+SaaS+platforms+%F0%9F%9A%80;React+%2B+Next.js+%2B+Node.js+enthusiast;AI-powered+%26+real-time+app+developer;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
 
-###
-
-<div align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40" />
 </div>
 
-<br>
+---
 
+## 👨‍💻 About Me
 
-<h3 align="left">My Coding Journey :</h3>
+```javascript
+const mahmoud = {
+  role: "Software Engineer @ Blue Crunch",
+  location: "Egypt 🇪🇬",
+  focus: ["SaaS Platforms", "Real-time Apps", "AI-powered Features"],
+  currentlyLearning: ["System Design", "GraphQL", "Cloud Architecture"],
+  askMeAbout: ["React", "Next.js", "Node.js", "API Design", "Frontend Dev"],
+  funFact: "I turn complex ideas into clean, maintainable code ☕",
+  contact: "mahmoudyounis5761@gmail.com"
+};
+```
 
-###
+---
 
-- 🚀 **Started Learning Coding:** Began with HTML and CSS, gradually moving to JavaScript and React.js.
-- 📚 **First Project:** Developed a personal website to showcase my projects and skills.
-- 🌟 **Current Focus:** Expanding knowledge in back-end development with Node.js and exploring new technologies.
-- 🌐 **Future Goals:** Master TypeScript, delve into GraphQL, and contribute to larger open-source projects.
+## 🚀 What I'm Working On
 
-###
+- 🏢 **@Blue Crunch** — Building a scalable SaaS platform with **real-time voice** and **AI-powered chat** features
+- 🔐 Developing **role-based dashboards** with secure RBAC and organization-level management
+- ⚡ Optimizing backend performance, API design, and system reliability
 
-<h3 align="left">Contact :</h3>
+---
 
-###
+## 🛠️ Tech Stack
 
-- 📫 Email: [mahmoudyounis5761@gmail.com](mailto:mahmoudyounis5761@gmail.com)
-- 🌐 [LinkedIn](linkedin.com/in/mahmoudyounis0)
-- 🐦 [Twitter](https://x.com/Mahmoud22103?t=KnkFHRsdhVy2kM5LY-HWwg&s=09&mx=2)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudyounis0&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudyounis0" /> </p>-->
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudyounis0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudyounis0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahmoudyounis0&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🧭 My Journey
+
+| Stage | Milestone |
+|-------|-----------|
+| 🌱 **Started** | HTML & CSS → JavaScript → React.js |
+| 🔨 **Built** | Personal website, frontend projects, production dashboards |
+| 🏢 **Worked** | Astro Reach (Oct 2024 – Feb 2026) → Blue Crunch (Feb 2026 – Present) |
+| 🎯 **Now** | Full-stack development, SaaS platforms, AI-powered apps |
+| 🚀 **Next** | Master system design, GraphQL, cloud-native architecture |
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoudyounis0)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mahmoud22103)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudyounis5761@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:1A56DB&height=100&section=footer" width="100%"/>
+
+</div>
